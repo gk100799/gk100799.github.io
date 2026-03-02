@@ -27,6 +27,9 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "DevToolbox",
   },
+  other: {
+    "google-adsense-account": "ca-pub-1369989539841753",
+  },
 };
 
 export default function RootLayout({
