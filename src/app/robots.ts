@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/admin",
     },
-    sitemap: "https://devtoolbox.vercel.app/sitemap.xml", // Replace with your domain
+    sitemap: "https://gk100799.github.io//sitemap.xml", // Replace with your domain
   };
 }

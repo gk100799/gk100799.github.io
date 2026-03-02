@@ -4,7 +4,7 @@ import { tools } from "@/lib/tools";
 export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://devtoolbox.vercel.app"; // Replace with your domain
+  const baseUrl = "https://gk100799.github.io/"; // Replace with your domain
 
   return [
     {
